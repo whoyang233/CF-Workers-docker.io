@@ -1,6 +1,6 @@
 // _worker.js
 
-// Docker镜像仓库主机地址
+// Docker镜像仓库主机地址 
 let hub_host = 'registry-1.docker.io';
 // Docker认证服务器地址
 const auth_url = 'https://auth.docker.io';
